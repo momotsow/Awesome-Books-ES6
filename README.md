@@ -1,56 +1,68 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name : Awesome books
 
-> Description the project.
+> For this repositary , We've create an hmtl, styling, and javascript to in order to build a booking list. functions of this booking list App are adding a book, removing a book and saving and removing from loacl storage. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Vanilla JavaScript
+- Github
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple example steps.
+- Open terminal
+- Clone this project by the command: 
 
+$ git clone https://github.com/momotsow/Awesome-Books-ES6.git
+
+- Then go to the main folder using the next command:
+
+$ cd capstone1.git
+
+- Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- Git to versionning your work.
 
 ### Install
 
+- npm install --save-dev hint@6.x
+- npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+- npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
+
 ### Usage
+
+- For anyone who wants to practice html5, css3 and or vanilla JavaScript
+- For anyone who wants to create his own Web devlopment course site.
 
 ### Run tests
 
-### Deployment
+- run: npx hint .
+- run: npx stylelint "**/*.{css,scss}"
+- run: npx eslint .
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Khomotso Mkansi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/momotsow)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khomotso-prudence-mkansi-aa7794b7/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -66,7 +78,8 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- Microverse program
+- My standup team
 
 ## 📝 License
 

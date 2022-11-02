@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome-books</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+
+    <section class="main-container">
+      <header>
+        <nav>
+          <p class="logo">AwesomeBook</p>
+          <ul class="nav-list">
+            <li class="listBtn">List</li>
+            <li class="addBtn">Add new</li>
+            <li class="contact">Contact</li>
+          </ul>
+        </nav>
+      </header>
+
+      <span id="current-date">111</span>
+      <h1>All Awesome books</h1>
+
+      <div class="book-list hide"></div>
+      
+      <div class="form-container">
+        <p class="add-text">Add a new book</p>
+        <form id="book-form">
+          <input type="text" placeholder="Title" id="title" />
+          <br />
+          <input type="text" placeholder="Author" id="author" />
+          <br />
+          <button id="submit" type="submit">Add</button>
+        </form>
+      </div>
+
+      <div class="contact-info hide">
+        <h1>Contact information</h1>
+        <p>Do you have any questions or you just want to say "Hello"? You can reach out to us!</p>
+        <ul>
+          <li class="contactLi">Our e-mail:  mail@mail.com</li>
+          <li class="contactLi">Our phone number:   004789009876509876</li>
+          <li class="contactLi">Our address: Streetnone 22, 84503 City, country</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+        <h3> © Copyright Khomotso </h3>
+    </footer>
+
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
